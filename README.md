@@ -44,9 +44,3 @@ I'm continuing to build software, deepen my cloud and backend development skills
 ## 📫 Connect With Me
 
 **LinkedIn:** [linkedin.com/in/hlakokabelo](https://linkedin.com/in/hlakokabelo)
-
-**GitHub:** [github.com/hlakokabelo](https://github.com/hlakokabelo)
-
----
-
-> Build things. Break things. Understand why. Build them better.

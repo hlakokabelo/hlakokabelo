@@ -27,41 +27,10 @@ I'm also a **Microsoft Certified Azure Developer Associate (AZ-204)** and hold t
 **Cloud & Tools**
 
 `Microsoft Azure` `Supabase` `Git` `GitHub` `Vercel` `Render`
-
-## 🚀 Projects
-
-### 💬 Chatterra
-
-A Reddit-style social platform built with **React, TypeScript, Supabase, PostgreSQL, and Tailwind CSS**.
-
-Features include authentication, communities, posts, threaded comments, voting, user profiles, search, image uploads, Row Level Security, and PostgreSQL RPC functions.
-
-### 🔗 Trimzo
-
-A full-stack URL shortener built with **React, TypeScript, Node.js, Express, and MongoDB**.
-
-Includes custom short links, authentication, QR codes, link management, redirects, sharing, and guest link storage.
-
-### 🔎 JobScout
-
-A lightweight job-search utility built with **React and TypeScript** that generates targeted searches across platforms such as LinkedIn, Indeed, PNet, and Careers24.
-
-Built to make the repetitive part of job hunting a little less repetitive.
-
-### 🎬 Movie List API
-
-A REST API built with **Node.js, Express, Prisma, PostgreSQL, JWT, and Zod**, with authentication, validation, and CRUD operations.
-
 ## ☁️ Microsoft Certifications
 
 * **Microsoft Certified: Azure Developer Associate (AZ-204)**
 * **Microsoft Certified: Azure Fundamentals (AZ-900)**
-
-## 🎓 Background
-
-I've completed **375 cumulative NQF credits** toward a **BSc in Information Technology in Computer Science and Informatics** at the University of Johannesburg.
-
-I also worked as a **Computer Science Student Assistant** across two academic years, where I assessed programming practicals and assignments, helped students debug their code, explained programming concepts, and provided one-on-one and group support.
 
 ## 🌱 Currently
 

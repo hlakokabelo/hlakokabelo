@@ -1,10 +1,10 @@
 # Hi, I'm Kabelo 👋
 
-I'm a software developer based in South Africa, focused on building practical web applications and backend systems.
+I'm a software developer based in South Africa, interested in software development, backend systems, cloud technologies, and full-stack applications.
 
-I enjoy working across the stack, particularly with **TypeScript, React, Node.js, SQL, and cloud technologies**. Most of my learning comes from building projects, breaking things, figuring out why they broke, and then making them slightly harder to break the next time.
+I enjoy working across the stack, particularly with **TypeScript, React, Node.js, SQL, and Microsoft Azure**. Most of my learning comes from building projects, breaking things, figuring out why they broke, and then making them slightly harder to break the next time.
 
-I'm also a **Microsoft Certified Azure Developer Associate (AZ-204)** and hold the **Azure Fundamentals (AZ-900)** certification.
+I'm also a **Microsoft Certified: Azure Developer Associate (AZ-204)** and hold the **Azure Fundamentals (AZ-900)** certification.
 
 ## 🛠️ Tech Stack
 
@@ -18,28 +18,34 @@ I'm also a **Microsoft Certified Azure Developer Associate (AZ-204)** and hold t
 
 **Backend**
 
-`Node.js` `Express.js` `REST APIs` `JWT` `Prisma` `Zod`
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Prisma` `Zod`
 
 **Databases**
 
 `PostgreSQL` `MySQL` `SQL Server` `MongoDB` `Supabase`
 
+**Testing**
+
+`Vitest` `React Testing Library`
+
 **Cloud & Tools**
 
-`Microsoft Azure` `Supabase` `Git` `GitHub` `Vercel` `Render`
+`Microsoft Azure` `Azure Functions` `Azure Storage` `Azure App Service` `Git` `GitHub` `GitHub Actions` `Vercel` `Render`
+
 ## ☁️ Microsoft Certifications
 
-* **Microsoft Certified: Azure Developer Associate (AZ-204)**
-* **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Microsoft Certified: Azure Developer Associate (AZ-204)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ## 🌱 Currently
 
-I'm continuing to build software, deepen my cloud and backend development skills, and explore opportunities in:
+I'm continuing to build software, strengthen my backend and cloud skills, and explore junior opportunities in:
 
-* Junior Software Development
-* Backend Development
-* Full-Stack Development
-* Cloud Development
+- Software Development
+- Backend Development
+- Full-Stack Development
+- Cloud Development
+- Database-focused roles
 
 ## 📫 Connect With Me
 

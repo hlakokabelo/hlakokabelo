@@ -50,4 +50,5 @@ I'm continuing to build software, strengthen my backend and cloud skills, and ex
 ## 📫 Connect With Me
 
 **LinkedIn:** [linkedin.com/in/hlakokabelo](https://linkedin.com/in/hlakokabelo)  
-**Email:** [kabelohlako.kh@gmail.com](mailto:kabelohlako.kh@gmail.com)
+**Email:** [kabelohlako.kh@gmail.com](mailto:kabelohlako.kh@gmail.com)  
+[Portfolio](https://kabelodev.vercel.app)

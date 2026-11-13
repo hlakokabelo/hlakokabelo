@@ -4,7 +4,7 @@ I'm a software developer based in South Africa, interested in software developme
 
 I enjoy working across the stack, particularly with **TypeScript, React, Node.js, SQL, and Microsoft Azure**. Most of my learning comes from building projects, breaking things, figuring out why they broke, and then making them slightly harder to break the next time.
 
-I'm also a **Microsoft Certified: Azure Developer Associate (AZ-204)** and hold the **Azure Fundamentals (AZ-900)** certification.
+I'm **Microsoft Certified** in three areas: **Azure Developer Associate (AZ-204)**, **Azure Fundamentals (AZ-900)**, and **Azure AI Fundamentals (AI-900)**.
 
 ## 🛠️ Tech Stack
 
